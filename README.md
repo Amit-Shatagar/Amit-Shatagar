@@ -6,9 +6,9 @@
 
 ![](https://komarev.com/ghpvc/?username=said7388&color=brightgreen)
 
-- 🔭 Focusing on FullStack (Frontend + Backend + DevOps).😊
+- 🔭 Focusing on FullStack (Frontend + Backend + DevOps).
 - 💻 Trying to become an expert in Fullstack development 💻
-- ❤️ I love exploring new tech innovations and building cool stuff. 🔌
+- ❤️ I love exploring new tech innovations and building cool stuff. 
 - 🌅 Also a NCC "C" Certificate Holder 
 - 🕛 2024 Goals: Get Hired and doing work.
 - 😅 Fun fact: Equal is Not Always Equal in Javascript🤔.
@@ -54,23 +54,17 @@
 ### My Github Stats:
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=said7388&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true" alt="Abu Said's GitHub status" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Amit-Shatagar&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true" alt="Amit Shatagar's GitHub status" />
 </p>
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=said7388&theme=algolia" alt="said7388" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Amit-Shatagar&theme=algolia" alt="Amitsha" />
 </p>
 
 ---
 
 ### Top Usage Languages:
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=said7388&layout=compact&theme=algolia&hide_border=true&&langs_count=10" />
-
----
-
-### StarDev Ranking
-
-<a href="https://stardev.io/developers/said7388"><img alt="Check out said7388's profile on stardev.io" src="https://stardev.io/developers/said7388/badge/languages/locality.svg" /></a>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amit-Shatagar&layout=compact&theme=algolia&hide_border=true&&langs_count=10" />
 
 ---
 
@@ -79,8 +73,5 @@
 
 
 <a href="https://github.com/Amit-Shatagar/Fresher-Portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=said7388&repo=developer-portfolio&theme=algolia" />
-</a>
-<a href="https://github.com/said7388/Express-Postgres-blog">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=said7388&repo=Express-Postgres-blog&theme=algolia" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Amit-Shatagar&repo=Fresher-Portfolio&theme=algolia" />
 </a>
