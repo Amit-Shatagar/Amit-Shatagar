@@ -1,17 +1,17 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+ðŸ‘‹;This+is+AMIT+SHATAGAR....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There+👋🏻;This+is+AMIT+SHATAGAR;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
 ![](https://komarev.com/ghpvc/?username=said7388&color=brightgreen)
 
-- ðŸ”­ Focusing on FullStack (Frontend + Backend + DevOps).ðŸ˜Ž
-- ðŸŒ± Trying to become an expert in Fullstack development â¤
-- ðŸ’» I love exploring new tech stacks and building cool stuff.
-- ðŸ“° Reading tech documentation whenever possible.
-- ðŸ¥… 2024 Goals: Learn Cloud on AWS and Azure.
-- âš¡ Fun fact: Equal is Not Always Equal in Javascript.ðŸ¤£
+- 🔭 Focusing on FullStack (Frontend + Backend + DevOps).😊
+- 💻 Trying to become an expert in Fullstack development 💻
+- ❤️ I love exploring new tech innovations and building cool stuff. 🔌
+- 🌅 Also a NCC "C" Certificate Holder 
+- 🕛 2024 Goals: Get Hired and doing work.
+- 😅 Fun fact: Equal is Not Always Equal in Javascript🤔.
 
 ---
 
